@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "test-static-page",
+    "description": "",
+    "home_page_url": "https://rlanhe.github.io/test-static-site",
+    "feed_url": "https://rlanhe.github.io/test-static-site/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "me"
+    },
+    "items": [
+        {
+            "id": "https://rlanhe.github.io/test-static-site/test-article.html",
+            "url": "https://rlanhe.github.io/test-static-site/test-article.html",
+            "title": "Test article",
+            "summary": "This is the content ",
+            "content_html": "<p>This is the content</p>\n<p> </p>",
+            "author": {
+                "name": "me"
+            },
+            "tags": [
+                   "categoria 1"
+            ],
+            "date_published": "2021-03-28T18:37:38+02:00",
+            "date_modified": "2021-03-28T18:39:03+02:00"
+        }
+    ]
+}

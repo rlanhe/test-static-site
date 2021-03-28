@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://rlanhe.github.io/test-static-site/sitemap.xml

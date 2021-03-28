@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>test-static-page</title>
+    <link href="https://rlanhe.github.io/test-static-site/feed.xml" rel="self" />
+    <link href="https://rlanhe.github.io/test-static-site" />
+    <updated>2021-03-28T18:39:03+02:00</updated>
+    <author>
+        <name>me</name>
+    </author>
+    <id>https://rlanhe.github.io/test-static-site</id>
+
+    <entry>
+        <title>Test article</title>
+        <author>
+            <name>me</name>
+        </author>
+        <link href="https://rlanhe.github.io/test-static-site/test-article.html"/>
+        <id>https://rlanhe.github.io/test-static-site/test-article.html</id>
+            <category term="categoria 1"/>
+
+        <updated>2021-03-28T18:39:03+02:00</updated>
+            <summary>
+                <![CDATA[
+                    This is the content 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is the content</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
